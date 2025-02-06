@@ -2,6 +2,8 @@
 
 **Organa** is a macOS application designed to capture, process, store, and retrieve academic and professional documents. The project leverages a serverless architecture using AWS services—including AWS Textract, Amazon S3, Amazon RDS (MySQL & PostgreSQL), and AWS Lambda—and integrates with the OpenAI API to generate and search text embeddings. The macOS application is built with SwiftUI and utilizes Apple Continuity Camera for seamless document capture.
 
+🎥 [Watch the Organa Demo](https://drive.google.com/file/d/1kPDEQyGWaSMCJkLAsw2r2z7OB1jUJEu5/view)
+
 ---
 
 ## Table of Contents
