@@ -298,7 +298,7 @@ Organa’s frontend is built with SwiftUI for macOS. It leverages **Apple Contin
 
 ---
 
-## 9. Non-Trivial Operations
+## 9. Operations
 
 1. **PDF Processing**  
    - Deskewing, brightness adjustment, noise reduction using **Pillow** & **PyMuPDF**.
@@ -327,10 +327,4 @@ Organa’s frontend is built with SwiftUI for macOS. It leverages **Apple Contin
 - **Testing**: Validate each endpoint in API Gateway before deploying to production.
 
 ---
-
-## 11. Conclusion
-
-Following these instructions will help you deploy Organa—a serverless document capture and retrieval system that uses AWS Textract for text extraction and OpenAI for embedding-based search. The macOS SwiftUI client ties everything together with seamless document uploads (including Apple Continuity Camera integration), grouping, and retrieval.
-
-Enjoy building and refining **Organa**!
 
